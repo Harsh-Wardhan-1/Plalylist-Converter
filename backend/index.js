@@ -199,12 +199,6 @@ const client_id = '3886a9253b8145ad88c45910a9503d6b';
 const client_secret = 'da6e3f8a7d144e4aa41210a3eb6bc8bd';
 const redirect_uri = 'http://localhost:8080/callback';
 
-// const redirectUrl = 'http://localhost:3000/callback';
-// const clientId = '3886a9253b8145ad88c45910a9503d6b';
-// const clientSecret = 'da6e3f8a7d144e4aa41210a3eb6bc8bd'; 
-
-// const authorizationEndpoint = "https://accounts.spotify.com/authorize";
-// const tokenEndpoint = "https://accounts.spotify.com/api/token";
 let codeVerifier;
 
 // PKCE functions
@@ -427,21 +421,25 @@ app.post('/cloneToYoutube', async (req, res) => {
 
 app.get('/createPlaylist', async(req, res) => {
   // Spawn a new child process to run the Python script
-  const pythonProcess = spawn('python', ['./backend/youtube-api/convert.py']);
-    
-    pythonProcess.stdout.on('data', (data) => {
-      console.log(`stdout: ${data}`);
-    });
+  try {
+    const pythonProcess = spawn('python', ['./backend/youtube-api/convert.py']);
+      
+      pythonProcess.stdout.on('data', (data) => {
+        console.log(`stdout: ${data}`);
+      });
 
-    pythonProcess.stderr.on('data', (data) => {
-      console.error(`stderr: ${data}`);
-    });
+      pythonProcess.stderr.on('data', (data) => {
+        console.error(`stderr: ${data}`);
+      });
 
-    pythonProcess.on('close', (code) => {
-      console.log(`child process exited with code ${code}`);
-    });
-
-    res.json("Created Playlist...");
+      pythonProcess.on('close', (code) => {
+        console.log(`child process exited with code ${code}`);
+      res.json("Creating Playlist...");
+      });
+    } catch(error) {
+      console.error('Error in creating playlist', error);
+      res.status(500).send('Internal Server Error');
+    }
 });
 
 // app.post('/getTracks', async (req, res) => {
