@@ -1,27 +1,3 @@
-// import React from "react";
-// import "./App.css";
-
-// function App() {
-//   const [data, setData] = React.useState(null);
-
-//   React.useEffect(() => {
-//     fetch("/api")
-//       .then((res) => res.json())
-//       .then((data) => setData(data.message));
-//   }, []);
-
-//   return (
-//     <div className="App">
-//       <header className="App-header">
-//         <p>{!data ? "Loading..." : data}</p>
-//       </header>
-//     </div>
-//   );
-// }
-
-// export default App;
-
-
 // import React, { useEffect, useState } from 'react';
 // import { Switch } from 'react-router';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
@@ -38,8 +14,6 @@ function App() {
           <Route path="/" element={<LoginPage />}/>
           <Route path="/user-details" element={<UserDetailsPage/>} />
           <Route path="/playlist/:playlistId" element={<PlaylistDetails/>} />
-
-          {/* <Route render={() => <LoginPage />} /> */}
         </Routes>
         {/* </Switch> */}
       </div>

@@ -1,74 +1,305 @@
 {
-  "playlistName": "Chill Vibes(Hindi)",
+  "playlistName": "Best of the Decade For You",
   "tracks": [
     {
-      "name": "Kabhi Kabhi Aditi Rashid Ali"
+      "name": "Stereo Hearts (feat. Adam Levine) Gym Class Heroes"
     },
     {
-      "name": "Kasoor Prateek Kuhad"
+      "name": "Scars To Your Beautiful Alessia Cara"
     },
     {
-      "name": "Masakali Mohit Chauhan"
+      "name": "I Like Me Better Lauv"
     },
     {
-      "name": "Dil To Bachcha Hai Rahat Fateh Ali Khan"
+      "name": "Blank Space Taylor Swift"
     },
     {
-      "name": "Woh Ladki Hai Kahan Shaan"
+      "name": "Treat You Better Shawn Mendes"
     },
     {
-      "name": "Ek Main Aur Ekk Tu Benny Dayal"
+      "name": "Story of My Life One Direction"
     },
     {
-      "name": "Ilahi प्रीतम"
+      "name": "a thousand years Christina Perri"
     },
     {
-      "name": "Liggi Ritviz"
+      "name": "Hurts So Good Astrid S"
     },
     {
-      "name": "Genda Phool Rekha Bhardwaj"
+      "name": "Baby Justin Bieber"
     },
     {
-      "name": "Udd Gaye Ritviz"
+      "name": "Heart Attack Demi Lovato"
     },
     {
-      "name": "Patakha Guddi Sultana"
+      "name": "Stitches Shawn Mendes"
     },
     {
-      "name": "Dil Dhadakne Do Joi Barua"
+      "name": "We Don't Talk Anymore (feat. Selena Gomez) Charlie Puth"
     },
     {
-      "name": "Maahi Ve A.R. Rahman"
+      "name": "Closer The Chainsmokers"
     },
     {
-      "name": "Uff Teri Adaa Shankar Mahadevan"
+      "name": "What Makes You Beautiful One Direction"
     },
     {
-      "name": "Offo Aditi Singh Sharma"
+      "name": "Little Do You Know Alex & Sierra"
     },
     {
-      "name": "Kudi Nu Nachne De (From \"Angrezi Medium\") Vishal Dadlani"
+      "name": "Electric Love BØRNS"
     },
     {
-      "name": "Dildaara (Stand By Me) Shafqat Amanat Ali"
+      "name": "Payphone Maroon 5"
     },
     {
-      "name": "Hai Junoon प्रीतम"
+      "name": "Cool for the Summer Demi Lovato"
     },
     {
-      "name": "Sooraj Ki Baahon Mein Dominique Cerejo"
+      "name": "I Don’t Wanna Live Forever (Fifty Shades Darker) ZAYN"
     },
     {
-      "name": "Voh Dekhnay Mein Ali Zafar"
+      "name": "Drag Me Down One Direction"
     },
     {
-      "name": "Gal Mitthi Mitthi Amit Trivedi"
+      "name": "Counting Stars OneRepublic"
     },
     {
-      "name": "Hosanna A.R. Rahman"
+      "name": "There's Nothing Holdin' Me Back Shawn Mendes"
     },
     {
-      "name": "Kahani (From \"Laal Singh Chaddha\") प्रीतम"
+      "name": "Say You Won't Let Go James Arthur"
+    },
+    {
+      "name": "Let Her Go Passenger"
+    },
+    {
+      "name": "Hymn for the Weekend Coldplay"
+    },
+    {
+      "name": "Never Be the Same Camila Cabello"
+    },
+    {
+      "name": "Without Me Halsey"
+    },
+    {
+      "name": "It's You Ali Gatie"
+    },
+    {
+      "name": "Perfect Ed Sheeran"
+    },
+    {
+      "name": "Me And My Broken Heart Rixton"
+    },
+    {
+      "name": "Attention Charlie Puth"
+    },
+    {
+      "name": "Let Me Love You DJ Snake"
+    },
+    {
+      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\" Ellie Goulding"
+    },
+    {
+      "name": "7 Years Lukas Graham"
+    },
+    {
+      "name": "Hall of Fame (feat. will.i.am) The Script"
+    },
+    {
+      "name": "Delicate Taylor Swift"
+    },
+    {
+      "name": "Youngblood 5 Seconds of Summer"
+    },
+    {
+      "name": "Just the Way You Are Bruno Mars"
+    },
+    {
+      "name": "Sit Still, Look Pretty Daya"
+    },
+    {
+      "name": "Team Lorde"
+    },
+    {
+      "name": "In the Name of Love Martin Garrix"
+    },
+    {
+      "name": "All I Want Kodaline"
+    },
+    {
+      "name": "Young And Beautiful Lana Del Rey"
+    },
+    {
+      "name": "Habits (Stay High) Tove Lo"
+    },
+    {
+      "name": "Sorry Justin Bieber"
+    },
+    {
+      "name": "Classic MKTO"
+    },
+    {
+      "name": "Something Just Like This The Chainsmokers"
+    },
+    {
+      "name": "See You Again (feat. Charlie Puth) Wiz Khalifa"
+    },
+    {
+      "name": "Teenage Dream Katy Perry"
+    },
+    {
+      "name": "Love Yourself Justin Bieber"
+    },
+    {
+      "name": "Sweater Weather The Neighbourhood"
+    },
+    {
+      "name": "A Sky Full of Stars Coldplay"
+    },
+    {
+      "name": "Young Dumb & Broke Khalid"
+    },
+    {
+      "name": "FRIENDS Marshmello"
+    },
+    {
+      "name": "Set Fire to the Rain Adele"
+    },
+    {
+      "name": "Riptide Vance Joy"
+    },
+    {
+      "name": "Grenade Bruno Mars"
+    },
+    {
+      "name": "Trampoline (with ZAYN) SHAED"
+    },
+    {
+      "name": "Rude MAGIC!"
+    },
+    {
+      "name": "Happier Marshmello"
+    },
+    {
+      "name": "Love The Way You Lie Eminem"
+    },
+    {
+      "name": "Dark Horse Katy Perry"
+    },
+    {
+      "name": "PILLOWTALK ZAYN"
+    },
+    {
+      "name": "Rolling in the Deep Adele"
+    },
+    {
+      "name": "Ophelia The Lumineers"
+    },
+    {
+      "name": "Best Day Of My Life American Authors"
+    },
+    {
+      "name": "Rockabye (feat. Sean Paul & Anne-Marie) Clean Bandit"
+    },
+    {
+      "name": "Cool Kids Echosmith"
+    },
+    {
+      "name": "Someone You Loved Lewis Capaldi"
+    },
+    {
+      "name": "Diamonds Rihanna"
+    },
+    {
+      "name": "Don't Let Me Down The Chainsmokers"
+    },
+    {
+      "name": "Lush Life Zara Larsson"
+    },
+    {
+      "name": "Wrecking Ball Miley Cyrus"
+    },
+    {
+      "name": "On The Floor Jennifer Lopez"
+    },
+    {
+      "name": "Take Me To Church Hozier"
+    },
+    {
+      "name": "Cheap Thrills Sia"
+    },
+    {
+      "name": "One More Night Maroon 5"
+    },
+    {
+      "name": "Hey, Soul Sister Train"
+    },
+    {
+      "name": "Somebody That I Used To Know Gotye"
+    },
+    {
+      "name": "The Middle Zedd"
+    },
+    {
+      "name": "Señorita Shawn Mendes"
+    },
+    {
+      "name": "Please Don't Go Joel Adams"
+    },
+    {
+      "name": "Starboy The Weeknd"
+    },
+    {
+      "name": "It Ain't Me (with Selena Gomez) Kygo"
+    },
+    {
+      "name": "Ho Hey The Lumineers"
+    },
+    {
+      "name": "Stay Zedd"
+    },
+    {
+      "name": "Down Jay Sean"
+    },
+    {
+      "name": "Firework Katy Perry"
+    },
+    {
+      "name": "Mirrors Justin Timberlake"
+    },
+    {
+      "name": "Cold Water Major Lazer"
+    },
+    {
+      "name": "All of Me John Legend"
+    },
+    {
+      "name": "Into You Ariana Grande"
+    },
+    {
+      "name": "Shut Up and Dance WALK THE MOON"
+    },
+    {
+      "name": "Roar Katy Perry"
+    },
+    {
+      "name": "Sucker Jonas Brothers"
+    },
+    {
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse Post Malone"
+    },
+    {
+      "name": "Domino Jessie J"
+    },
+    {
+      "name": "We Found Love Rihanna"
+    },
+    {
+      "name": "Side To Side Ariana Grande"
+    },
+    {
+      "name": "New Rules Dua Lipa"
     }
   ]
 }
